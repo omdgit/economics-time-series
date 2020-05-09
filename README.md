@@ -1,4 +1,4 @@
-# Copper Prices and COVID-19: A Time Series Analysis
+# Copper Prices After COVID-19: A Time Series Analysis
 
 With COVID-19 proving to be a game-changer from both a health and economic perspective, the commodity market has been hit particularly hard.
 
