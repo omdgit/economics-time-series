@@ -122,9 +122,7 @@ The forecast for the next 20 months predicts a continued drop in the 10-Year US 
 
 ## Interpretation
 
-With the effects of the COVID-19 pandemic on the economy, central banks around the world have moved to cut interest rates. With that being said, there is only so much quantitative easing that the economy can absorb before prices increase. This is particularly the case if the economy recovers faster than expected and consumers take advantage of lower rates, in turn pushing prices up. From this standpoint, the ARIMA forecast of increasing inflation rates may be theoretically justified.
-
-Accordingly, this would be expected to push up the producer price index (since it is now more expensive to produce copper), and copper prices themselves would rise accordingly.
+With the effects of the COVID-19 pandemic on the economy, central banks around the world have moved to cut interest rates. With that being said, there is only so much quantitative easing that the economy can absorb before prices increase. This is particularly the case if the economy recovers faster than expected and consumers take advantage of lower rates, in turn pushing prices up. From this standpoint, the ARIMA forecast of rising inflation rates may be theoretically justified.
 
 The ARIMA forecast for the 10-Year US Treasury Rate indicates a downward trend, which would be contrary to expectations in a period rising inflation. However, with the 10-year yield indicating low inflation expectations at present, we could see a situation where yields start rising if inflation grows faster than expected.
 
