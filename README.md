@@ -114,7 +114,7 @@ The forecast for the next 20 months predicts a significant rise in inflation:
 
 The ARIMA forecast for the 10-Year US Treasury Rate yields an RMSE of **0.756** on the validation set.
 
-![results-2-img](results-2-img.png)
+![prediction-2](prediction-2.png)
 
 The forecast for the next 20 months predicts a continued drop in the 10-Year US Treasury Rate:
 
