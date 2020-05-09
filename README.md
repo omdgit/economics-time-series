@@ -122,11 +122,17 @@ The forecast for the next 20 months predicts a continued drop in the 10-Year US 
 
 ## Interpretation
 
+### There could be a case for higher inflation going forward
+
 With the effects of the COVID-19 pandemic on the economy, central banks around the world have moved to cut interest rates. With that being said, there is only so much quantitative easing that the economy can absorb before prices increase. This is particularly the case if the economy recovers faster than expected and consumers take advantage of lower rates, in turn pushing prices up. From this standpoint, the ARIMA forecast of rising inflation rates may be theoretically justified.
 
 The ARIMA forecast for the 10-Year US Treasury Rate indicates a downward trend, which would be contrary to expectations in a period rising inflation. However, with the 10-year yield indicating low inflation expectations at present, we could see a situation where yields start rising if inflation grows faster than expected.
 
+### Copper and 10-year US Treasury Rate deviating from long-run relationship
+
 This may be one of the reasons we are seeing the copper producer price index and the 10-year Treasury rate deviate from their long-run relationship based on the previous cointegration analysis. The long-run relationship between copper and the 10Y rate has been negative, i.e. copper prices have risen while the 10Y rate has fallen. However, we are now seeing a situation where both time series are declining.
+
+### Implications for copper prices
 
 The long-run relationship as indicated by the cointegration analysis would suggest that the two series cannot move in the same direction indefinitely. Should yields continue falling, then copper prices will eventually start rising under this model. On the other hand, should a rise in inflation push yields higher, then we could see copper prices start to drop. After having seen a long-run increase in the producer price index, the recent drop could mark the beginning of an extended correction.
 
