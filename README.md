@@ -1,5 +1,7 @@
 # Copper Prices After COVID-19: A Time Series Analysis
 
+*Published on 9 May 2020*
+
 With COVID-19 proving to be a game-changer from both a health and economic perspective, the commodity market has been hit particularly hard.
 
 Copper prices have seen a significant slump in the first quarter of 2020. According to the [World Bank](https://blogs.worldbank.org/voices/outlook-commodity-markets-and-effects-coronavirus-six-charts), this is in large part due to the large decline that we have been seeing in the manufacturing sector and stimulus measures are having a limited effect in supporting prices.
