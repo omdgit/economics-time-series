@@ -4,7 +4,7 @@ With COVID-19 proving to be a game-changer from both a health and economic persp
 
 Copper prices have seen a significant slump in the first quarter of 2020. According to the [World Bank](https://blogs.worldbank.org/voices/outlook-commodity-markets-and-effects-coronavirus-six-charts), this is in large part due to the large decline that we have been seeing in the manufacturing sector and stimulus measures are having a limited effect in supporting prices.
 
-![copper-futures](copper-futures-img.png)
+![copper-futures-img](copper-futures-img.png)
 
 Accordingly, the producer price index has also been falling.
 
@@ -104,7 +104,7 @@ The appropriate model as identified for forecasting the 10-year US Treasury Rate
 
 The ARIMA forecast for inflation yields an RMSE (root mean squared error) of **0.866** on the validation set.
 
-![results-1](results-1-img.png)
+![results-1-img](results-1-img.png)
 
 The forecast for the next 20 months predicts a significant rise in inflation:
 
@@ -114,7 +114,7 @@ The forecast for the next 20 months predicts a significant rise in inflation:
 
 The ARIMA forecast for the 10-Year US Treasury Rate yields an RMSE of **0.756** on the validation set.
 
-![results-2](results-2-img.png)
+![results-2-img](results-2-img.png)
 
 The forecast for the next 20 months predicts a continued drop in the 10-Year US Treasury Rate:
 
