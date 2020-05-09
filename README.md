@@ -104,7 +104,7 @@ The appropriate model as identified for forecasting the 10-year US Treasury Rate
 
 The ARIMA forecast for inflation yields an RMSE (root mean squared error) of **0.866** on the validation set.
 
-![results-1-img](results-1-img.png)
+![model-image-1](model-image-1.png)
 
 The forecast for the next 20 months predicts a significant rise in inflation:
 
@@ -118,7 +118,7 @@ The ARIMA forecast for the 10-Year US Treasury Rate yields an RMSE of **0.756** 
 
 The forecast for the next 20 months predicts a continued drop in the 10-Year US Treasury Rate:
 
-![prediction-2](prediction-2.png)
+![model-image-2](model-image-2.png)
 
 ## Interpretation
 
