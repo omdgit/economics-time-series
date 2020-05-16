@@ -14,6 +14,7 @@ Copper prices have seen a significant slump in the first quarter of 2020. Accord
 
 ![copper-futures-img](copper-futures-img.png)
 
+
 *Source: investing.com*
 
 Accordingly, the producer price index has also been falling.
